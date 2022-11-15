@@ -4,4 +4,5 @@ This project is about performing simple image classification with two classes. F
 Used softwares and libraries:
 - Python
 - TensorFlow
+
 Trained data were saved from the internet.
